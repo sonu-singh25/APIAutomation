@@ -10,3 +10,6 @@ C0-main
 C1-main
 C2-main
 C3-main
+C7-main
+C8-main
+C9-main
