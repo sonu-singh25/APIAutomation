@@ -15,3 +15,6 @@ C8-main
 C3-iss53
 C4-iss53
 C5-iss53
+C6
+C7
+C8
